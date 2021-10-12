@@ -1,10 +1,20 @@
 body {
 	background-color: #EBF7E3;
-	font-family: "Frank Ruhl Libre",Georgia,serif;
+	
 }
 
 h1{
 color:#1B3409;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{ 
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 16px;
 }
 
 .cuttingboardimg {
@@ -13,4 +23,10 @@ color:#1B3409;
 }
 a {
 	text-decoration: none;
+}
+
+ul{ 
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: large
+	 
 }
