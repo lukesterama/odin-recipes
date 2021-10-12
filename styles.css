@@ -12,6 +12,10 @@ h2{
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h3{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 p{
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 16px;
@@ -28,5 +32,9 @@ a {
 ul{ 
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	font-size: large
-	 
+}
+
+ol{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: large
 }
