@@ -1,0 +1,13 @@
+body {
+	background-color: rgba(255, 235, 205, 0.308);
+	font-family: "Frank Ruhl Libre",Georgia,serif;
+}
+
+h1{
+color: forestgreen;
+}
+
+.cuttingboardimg {
+	height: auto;
+	width: 500px;
+}
