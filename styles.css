@@ -4,10 +4,13 @@ body {
 }
 
 h1{
-color: forestgreen;
+color:;
 }
 
 .cuttingboardimg {
 	height: auto;
 	width: 500px;
+}
+a {
+	text-decoration: none;
 }
